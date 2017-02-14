@@ -5,6 +5,8 @@ permalink: /about/
 tags: about
 ---
 
+I'm working on updating this website currently!
+
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
 
