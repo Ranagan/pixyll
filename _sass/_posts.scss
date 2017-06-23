@@ -18,11 +18,13 @@
   margin-top: 0;
   font-weight: 600;
   color: #333;
+  transition: all 0.3s
 }
 
 .post-link .post-title:hover {
   color: blue;
   text-shadow: -1px 1px $dark-blue;
+  opacity: 0.88;
 }
 
 .post-footer {
