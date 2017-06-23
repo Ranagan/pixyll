@@ -1,22 +1,18 @@
 ---
 layout: page
-title: About
+title: Resumé
 permalink: /about/
 tags: about
 ---
 
-I'm working on updating this website currently!
+You can reach me through any of the social media platforms listed above.
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+### TL;DR
+I like creating things.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+### Who am I?
+[I'm Brian and so's my wife.](https://www.youtube.com/watch?v=4SYc_flMnMQ)
 
-Thanks to the following:
+But seriously, my name is Ryan and recently, I moved from Galway in sunny Ireland to London. I always feel really weird writing about myself so I'm going to keep this brief. I like creating things. More specifically, I like creating things on computers.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Currently trying to find my niche in the programming world. A love for clever algorithms and a growing love for Python, despite it's lack of support for encapsulation, are starting to shape my path. Always interested in learning and experimenting with emerging technologies. That's it really. Like I said, it feels weird writing this and I'm keeping it brief. Feel free to contact me through the platform of your choice!
